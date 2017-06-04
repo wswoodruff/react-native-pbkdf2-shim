@@ -1,0 +1,8 @@
+{
+  "name": "react-native-pbkdf2-shim",
+  "version": "1.0.0",
+  "description": "Provide pbkdf2 and pbkdf2Sync",
+  "main": "lib/index.js",
+  "author": "William Woodruff <williamswoodruff@gmail.com>",
+  "license": "MIT"
+}
